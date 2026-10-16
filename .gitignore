@@ -1,0 +1,8 @@
+# Exclusiones de compilados y entorno
+*.exe
+*.out
+*.o
+.vscode/
+.idea/
+*.log
+Thumbs.db

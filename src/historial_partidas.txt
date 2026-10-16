@@ -1,0 +1,3 @@
+1,teo,Piedra,Papel,Derrota
+2,teo,Tijera,Piedra,Derrota
+3,teo,Papel,Papel,Empate
